@@ -1,4 +1,4 @@
-# owntask1
+# IC Task 2
 
 A new Flutter project.
 
